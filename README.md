@@ -33,7 +33,7 @@ Note:
 - Arrange all frogs in ascending order (from 1 to N) to win the game.
 
 # Author
-Paweł Wągrodzki
+Pablo1644
 # License
 This project is licensed under the MIT License.
 
