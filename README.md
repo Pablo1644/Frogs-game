@@ -3,7 +3,7 @@
 ## Description
 
 This is a simple frog puzzle game implemented using Pygame. The objective of the game is to arrange the frogs in a specific order using the least number of moves. Frogs can only move up and down or transition with a neighboring frog that has moved up.</br>
-The game is based on the game from '<b>Logomocja Imagine</b>,' a Polish educational program taught in schools.
+The game is based on the game from '<b>Logomocja Imagine</b>', a Polish educational program taught in schools.
 
 ## Features
 
