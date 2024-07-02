@@ -21,7 +21,7 @@ Note:
 1. Clone the repository:
 
  ```bash
-   git clone <https://github.com/Pablo1644/Frogs-game>
+   git clone https://github.com/Pablo1644/Frogs-game
 ```
 2. Gameplay Instructions
 - Click on a frog to select it.
