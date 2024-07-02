@@ -20,6 +20,6 @@ This is a simple frog puzzle game implemented using Pygame. The objective of the
    git clone <https://github.com/Pablo1644/Frogs-game>
 ```
 2. Gameplay Instructions
-    Click on a frog to select it.
-    Click on an adjacent frog to either move it up or transition it (if a sibling frog has moved up).
-    Arrange all frogs in ascending order (from 1 to N) to win the game.
+- **Graphics**Click on a frog to select it.
+- **Graphics**Click on an adjacent frog to either move it up or transition it (if a sibling frog has moved up).
+- **Graphics**Arrange all frogs in ascending order (from 1 to N) to win the game.
