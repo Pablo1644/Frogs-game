@@ -16,7 +16,7 @@ This is a simple frog puzzle game implemented using Pygame. The objective of the
 
 1. Clone the repository:
 
-   ```bash
+ ```bash
    git clone <https://github.com/Pablo1644/Frogs-game>
-  ```
+```
 2. Gameplay Instructions
