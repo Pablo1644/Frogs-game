@@ -11,7 +11,10 @@ This is a simple frog puzzle game implemented using Pygame. The objective of the
 - **Win Condition**: Arrange all frogs in ascending order from left to right to win the game.
 - **Moves Counter**: Tracks the number of moves made by the player.
 - **Game Over Alert**: Displays an alert when the game is won, showing the number of moves taken.
-
+## Note 
+Note:
+- Ensure you have the bg.png, frogICON.jpg, files available in your project directory or update the file names accordingly in the code.
+- Optionally, add screenshots of your game to showcase its visuals.
 ## Installation
 
 1. Clone the repository:
@@ -23,3 +26,10 @@ This is a simple frog puzzle game implemented using Pygame. The objective of the
 - Click on a frog to select it.
 - Click on an adjacent frog to either move it up or transition it (if a sibling frog has moved up).
 - Arrange all frogs in ascending order (from 1 to N) to win the game.
+
+# Author
+Paweł Wągrodzki
+# License
+This project is licensed under the MIT License.
+
+
