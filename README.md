@@ -23,7 +23,11 @@ Note:
  ```bash
    git clone https://github.com/Pablo1644/Frogs-game
 ```
-2. Gameplay Instructions
+2. Install Pygame:
+ ```bash
+   pip install pygame
+```
+## Gameplay Instructions
 - Click on a frog to select it.
 - Click on an adjacent frog to either move it up or transition it (if a sibling frog has moved up).
 - Arrange all frogs in ascending order (from 1 to N) to win the game.
