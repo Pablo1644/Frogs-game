@@ -27,6 +27,10 @@ Note:
  ```bash
    pip install pygame
 ```
+3. Run the game:
+```bash
+   python frogs.py
+```
 ## Gameplay Instructions
 - Click on a frog to select it.
 - Click on an adjacent frog to either move it up or transition it (if a sibling frog has moved up).
