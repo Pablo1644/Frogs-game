@@ -14,7 +14,7 @@ The game is based on the game from '<b>Logomocja Imagine</b>', a Polish educatio
 - **Game Over Alert**: Displays an alert when the game is won, showing the number of moves taken.
 ## Note 
 Note:
-- Ensure you have the bg.png, frogICON.jpg, files available in your project directory or update the file names accordingly in the code.
+- Ensure you have the bg.png, frogICON.jpg files available in your project directory or update the file names accordingly in the code.
 - Optionally, add screenshots of your game to showcase its visuals.
 ## Installation
 
